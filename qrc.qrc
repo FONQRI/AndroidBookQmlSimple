@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainMenu.qml</file>
+        <file>ReadPage.qml</file>
+        <file>SeasonPage.qml</file>
+        <file>AboutPage.qml</file>
+        <file>txt/firstPart.txt</file>
+        <file>txt/secondPart.txt</file>
+        <file>images/myimage.png</file>
+        <file>txt/3part.txt</file>
+        <file>txt/4part.txt</file>
+    </qresource>
+</RCC>
